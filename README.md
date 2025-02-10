@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Ruan Patrick estudante de programação, tenho 17 anos, com o objetivo de entrar nesta área. Estou aprendendo e criando projetos com:
+Eu sou Ruan Patrick estudante de programação, tenho 18 anos, com o objetivo de entrar nesta área. Estou aprendendo e criando projetos com:
 <br>
 <br>
   - <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-Logo" />
